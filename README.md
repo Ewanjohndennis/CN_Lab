@@ -1,9 +1,8 @@
-# Computer Networks (CN) Lab
+# Networks Lab
 
-**Semester:** S5 (Common to CS/CD/CM/CB/CU/CI)  
 **Course Code:** PCCSL507
 
-A repository containing the experiments performed as part of the **Computer Networks Laboratory**. It includes Linux networking fundamentals, protocol analysis using Wireshark, network programming using sockets in C, and routing/network simulation experiments.
+A repository containing the experiments performed as part of the **Networks Lab (PCCSL507)**. It includes Linux networking fundamentals, protocol analysis using Wireshark, network programming using sockets in C, and routing/network simulation experiments.
 
 ---
 
@@ -14,8 +13,8 @@ A repository containing the experiments performed as part of the **Computer Netw
 | 1 | Linux Networking Commands | ✅ Added |
 | 2 | HTTP Analysis using Wireshark | ✅ Added |
 | 3 | SMTP Analysis using Wireshark | ✅ Added |
-| 4 | DNS Analysis using Wireshark | 🚧 Coming Soon |
-| 5–10 | Socket Programming | ✅ Completed |
+| 4 | DNS Analysis using Wireshark | ✅ Added |
+| 5–10 | Socket Programming | ✅ Added |
 | 11–17 | Cisco Packet Tracer / Routing & Security | 🚧 Coming Soon |
 
 ---
@@ -28,6 +27,7 @@ CN_Lab/
 ├── EXP1_COMMANDS.md          # Linux networking commands and modern alternatives
 ├── EXP2_WIRESHARK.md         # HTTP packet analysis using Wireshark
 ├── EXP3_SMTP.md              # SMTP protocol analysis using Wireshark
+├── EXP4_DNS.md              # DNS protocol analysis using Wireshark
 ├── README.md
 │
 └── Sockets/
@@ -93,8 +93,7 @@ Cisco Packet Tracer experiments covering:
 
 ## Notes
 
-- The repository follows the **KTU Computer Networks Lab (PCCSL507)** syllabus.
+- The repository follows the **KTU Networks Lab (PCCSL507)** syllabus.
 - Documentation-based experiments include explanations, procedures, observations, and viva questions.
 - Legacy Linux networking commands are documented alongside their modern replacements wherever applicable.
-
 ---
