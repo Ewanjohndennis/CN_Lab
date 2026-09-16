@@ -1,6 +1,4 @@
-# Networks Lab
-
-**Course Code:** PCCSL507
+# Networks Lab (PCCSL507)
 
 A repository containing the experiments performed as part of the **Networks Lab (PCCSL507)**. It includes Linux networking fundamentals, protocol analysis using Wireshark, network programming using sockets in C, and routing/network simulation experiments.
 
